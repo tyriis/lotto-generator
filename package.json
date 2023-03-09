@@ -1,0 +1,12 @@
+{
+  "name": "lotto-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["lotto"],
+  "author": "Nils Müller",
+  "license": "MIT",
+  "description": "simple generator for lotto"
+}
